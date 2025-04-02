@@ -14,8 +14,6 @@ class Solution {
             }
         }
 
-        int lcs = dp[n][m];
-
-        return n + m - (2 * lcs);
+        return n + m - (2 * dp[n][m]);
     }
 }
