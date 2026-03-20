@@ -11,12 +11,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +100,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 <!---LeetCode Topics End-->
