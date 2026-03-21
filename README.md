@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +103,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 <!---LeetCode Topics End-->
