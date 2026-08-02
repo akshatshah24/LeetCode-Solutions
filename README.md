@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0877-stone-game](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -505,5 +508,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0877-stone-game/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
