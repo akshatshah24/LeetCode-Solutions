@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1861-rotating-the-box/) | Medium |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -493,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
