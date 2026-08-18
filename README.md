@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
