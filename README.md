@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
