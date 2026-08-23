@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1927-sum-game](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1927-sum-game](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1927-sum-game](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2126-destroying-asteroids/) | Medium |
@@ -569,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2029-stone-game-ix/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
