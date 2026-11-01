@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -431,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/1622-fancy-sequence/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3161-block-placement-queries](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3161-block-placement-queries/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Sorting
