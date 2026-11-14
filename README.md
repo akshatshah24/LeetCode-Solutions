@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3364-minimum-positive-sum-subarray](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -288,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akshatshah24/LeetCode-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
